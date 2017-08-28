@@ -1,0 +1,4 @@
+﻿  BinTree.c
+c:\users\장동욱\documents\visual studio 2017\projects\bintree\bintree\bintree.c(25): warning C4715: 'insertNodeRecur': not all control paths return a value
+  BinTree.vcxproj -> C:\Users\장동욱\documents\visual studio 2017\Projects\BinTree\Debug\BinTree.exe
+  BinTree.vcxproj -> C:\Users\장동욱\documents\visual studio 2017\Projects\BinTree\Debug\BinTree.pdb (Partial PDB)
